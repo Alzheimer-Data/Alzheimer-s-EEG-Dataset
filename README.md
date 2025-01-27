@@ -1,7 +1,7 @@
 # Multi-Patient Alzheimer's EEG Dataset
 
 <p align="center">
-  <img src="brain_wave.png" alt="Alzheimer's EEG logo" width="200"> 
+  <img src="brain_wave.png" alt="Alzheimer's EEG logo" width="400"> 
 </p>
 
 ## Overview
@@ -13,7 +13,7 @@ The Multi-Patient Alzheimer's EEG Dataset provides EEG signals recorded from 35 
 ## Dataset Details
 
 <p align="center">
-    <img src="Placement of Sensors on EEG devices.png" alt="Placement of Sensors on EEG devices" width="200">
+    <img src="Placement of Sensors on EEG devices.png" alt="Placement of Sensors on EEG devices" width="400">
 </p>
 
 - **Number of Patients**: 32
